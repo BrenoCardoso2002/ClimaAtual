@@ -1,0 +1,16 @@
+body {
+    flex-direction: column;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightgray;
+}
+
+h1{
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+h2{
+    margin-top: -10px;
+    font-size: 23px;
+}
